@@ -1,0 +1,157 @@
+@media screen and (max-width: 1110px){
+	.deal-h1{
+		font-size: 18px;
+	}
+	.deal-title{
+		font-size: 12px;
+		font-weight: 600;
+	}
+	.deal-sale{
+		font-size: 18px;
+	}
+	.deal-price{
+		font-size: 24px;
+	}
+	.show-title{
+		top: 50%;
+		left: 50%;
+		transform: translate(-20%, -60%);
+	}
+	.show-title h1{
+		font-size: 32px;
+	}
+	.disk{
+		left: 80px;
+		width: 200px;
+		height: 180px;
+		top: 50%;
+		left: 60px;
+	}
+	.deal-of{
+		width: 100%;
+	}
+}
+@media screen and (max-width: 992px){
+	.prod-objects{
+		height: 100%;
+		position: relative;
+	}
+	.prod-object{
+		position: relative;
+	}
+	.main-block_block{
+		height: auto;
+	}
+	.menu{
+		display: none;
+	}
+	.mburger{
+		display: block;
+	}
+	.search-grid{
+		display: none;
+	}
+	.add-to-cart{
+		position: relative;
+		margin-bottom: 30px;
+		margin-left: 20px;
+	}
+}
+@media screen and (max-width: 946px){
+	.prod-cats ul li{
+		padding: 0 7px;
+		font-size: 15px;
+	}
+	.cat-nav li{
+		line-height: 35px;
+	}
+	.cat-nav li a{
+		line-height: 40px;
+	}
+}
+@media screen and (max-width: 864px){
+	.show-title{
+		top: 50%;
+		left: 50%;
+	}
+	.prod-cat{
+		width: 100px;
+		font-size: 14px;
+		line-height: 24px;
+	}
+}
+@media screen and (max-width: 767px){
+	.container{
+		width: 100%;
+	}
+	.deal-of{
+		width: 100%;
+	}
+	.section-container{
+		width: 94%;
+	}
+	.product-detail-comments{
+		padding: 15px;
+	}
+	.show-title{
+		top: 40%;
+		left: 60%;
+	}
+	.disk{
+		width: 240px;
+		height: 220px;
+	}
+	.prev{
+		left: 20px;
+	}
+	.next{
+		right: 20px;
+	}
+	.show-title h1{
+		font-size: 24px;
+		line-height: 28px;
+	}
+	.show-title h2{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.show-title h3{
+		font-size: 18px;
+		line-height: 24px;
+	}
+	.categories{
+		z-index: 999;
+	}
+	.prod-cats ul li{
+		margin-top: 10px;
+	}
+	.cart{
+		margin: 15px 0;
+	}
+	.searchButton{
+		font-size: 14px;
+		margin:  0;
+	}
+	.search-bar{
+		width: 100%;
+	}
+	.product-section-image{
+		padding: 0 10%;
+	}
+	.comment-form form{
+		text-align: left;
+	}
+}
+
+@media screen and (max-width: 480px){
+	.disk{
+		width: 240px;
+		height: 220px;
+	}
+	.prev{
+		left: 10px;
+	}
+	.next{
+		right: 10px;
+	}
+}
